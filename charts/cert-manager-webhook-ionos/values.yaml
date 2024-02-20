@@ -13,7 +13,7 @@ certManager:
   serviceAccountName: cert-manager
 
 image:
-  repository: fabmade/cert-manager-webhook-ionos
+  repository: guyincognito/cert-manager-webhook-ionos
   tag: latest
   pullPolicy: IfNotPresent
 
