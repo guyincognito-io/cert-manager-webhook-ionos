@@ -9,11 +9,11 @@ see: https://cert-manager.io/docs/configuration/acme/dns01/webhook/
 
 see: https://cert-manager.io/docs/installation/kubernetes/
 
-### Install webhook 
+### Install webhook
 
 Add helm repo
 
-`helm repo add cert-manager-webhook-ionos https://fabmade.github.io/cert-manager-webhook-ionos`
+`helm repo add cert-manager-webhook-ionos https://guyincognito-io.github.io/cert-manager-webhook-ionos`
 
 install helm chart
 
