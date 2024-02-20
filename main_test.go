@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/fabmade/cert-manager-webhook-ionos/ionos"
-	"github.com/jetstack/cert-manager/test/acme/dns"
+	"github.com/cert-manager/cert-manager/test/acme/dns"
 	"os"
 	"testing"
 )
