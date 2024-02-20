@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/fabmade/cert-manager-webhook-ionos/ionos"
+	"github.com/guyincognito-io/cert-manager-webhook-ionos/ionos"
 	"github.com/cert-manager/cert-manager/pkg/acme/webhook/cmd"
 	"os"
 )

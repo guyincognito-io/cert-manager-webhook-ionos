@@ -1,4 +1,4 @@
-module github.com/fabmade/cert-manager-webhook-ionos
+module github.com/guyincognito-io/cert-manager-webhook-ionos
 
 go 1.21.7
 
